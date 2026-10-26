@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "length_m": 1.2,
+  "segments": 8,
+  "timestep_s": 0.005,
+  "control_period_steps": 6,
+  "cable_moment_arm_m": 0.035,
+  "max_tension_N": 600,
+  "target_limit_rad": 0.9,
+  "gentle_force_threshold_N": 35,
+  "notes": "Artistic simulation defaults; these are not measured hardware properties.",
+  "anchor_half_span_m": 0.99,
+  "tongue_half_width_m": 0.22,
+  "tongue_half_thickness_m": 0.035,
+  "presentation_speed": 0.3,
+  "target_speed_rad_s": 0.3,
+  "mechanism": "four-dof-v1",
+  "effective_density_kg_m3": 120,
+  "joint_limit_rad": 1.1,
+  "scripted_amplitude_gain": 2.0,
+  "joint_stiffness_Nm_rad": 8,
+  "interaction_style": "reference"
+}

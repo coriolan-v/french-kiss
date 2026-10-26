@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "source_name": "french-kiss-video-training.mp4",
+  "source_duration_s": 125.8667,
+  "source_fps": 30,
+  "interpretation": "Manually reference-informed choreography, not motion capture or imitation learning. Screen recording contains cuts and player interactions; timing is artistically retimed for the 1.2 m mechanism.",
+  "observed_sequences_s": [[24,35],[71,82]],
+  "observations": ["Close, continuous adjustments rather than large body sweeps", "Repeated small distal curls and changes of initiative", "Short separation/pause followed by reconnection"],
+  "shared_lateral_amplitude_m": 0.065,
+  "shared_vertical_amplitude_m": 0.05,
+  "pause_withdrawal_m": 0.16,
+  "phase_durations_s": [1.5,4.0,2.8,1.5,2.8,2.4]
+}

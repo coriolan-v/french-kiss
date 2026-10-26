@@ -1,0 +1,33 @@
+{
+  "simulated_seconds": 90,
+  "contact_fraction": 0.5933333333333334,
+  "gentle_contact_fraction": 0.588,
+  "peak_contact_force_N": 86.08773715497273,
+  "minimum_tip_excursion_in_any_3_second_window_m": [
+    0.1502139407602009,
+    0.22620676340512696
+  ],
+  "full_tip_span_xyz_m": [
+    [
+      0.31158833172901657,
+      0.7592717585716939,
+      0.9214725540730133
+    ],
+    [
+      0.30535366539719816,
+      0.8463692665318219,
+      0.7016541686569872
+    ]
+  ],
+  "contact_breaks": 131,
+  "contact_returns": 132,
+  "phases": [
+    "A pulls away / B follows",
+    "B pulls away / A follows",
+    "Explore apart",
+    "Explore together",
+    "Meet",
+    "Reunite"
+  ],
+  "finite": true
+}
